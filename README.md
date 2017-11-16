@@ -1,2 +1,1 @@
-# afl-llvm-driver
 # bashfuzz
